@@ -1,0 +1,34 @@
+{"user_id":6515961910,"username":"SWDQYL","first_name":"Left TG","last_name":null}
+{"user_id":6515711132,"username":"SQTYL","first_name":"TG Left","last_name":null}
+{"user_id":5271710396,"username":"Richx28","first_name":"\u23e4\u035f\u035e\ud80c\udda9\u1ab5\ud835\udc11\ud835\udc08\ud835\udc02\ud835\udc07\ud80c\uddaa\ud835\udc02\ud835\udc12 \ud83d\udcb8","last_name":null}
+{"user_id":1878696487,"username":"Granddestroyer","first_name":"Granddestroyer","last_name":null}
+{"user_id":6602013864,"username":"REDOX_22","first_name":"\ud835\udde5\ud835\uddd8\ud835\uddd7\ud835\udde2\ud835\udd4f","last_name":null}
+{"user_id":6595692554,"username":"h027i","first_name":"\ud835\ude7b\ud835\udffd\ud835\ude7d \ud835\ude71\ud835\ude7e\ud835\ude83 \u30c4","last_name":null}
+{"user_id":5629804658,"username":"sMlSSR0SE_B0T","first_name":"Rose","last_name":null}
+{"user_id":1694661268,"username":"SoulStarXd","first_name":"OFF(1hrOn)EXAMS","last_name":null}
+{"user_id":6153122111,"username":null,"first_name":"Najakat","last_name":null}
+{"user_id":1851751642,"username":"beingatanu7","first_name":"ATANUUU","last_name":null}
+{"user_id":5388188167,"username":"Pardoz_xD","first_name":"\ud835\udde3\ud835\uddee\ud835\uddff\ud835\uddee\ud835\uddf1\ud835\uddfc\ud835\ude07","last_name":"<Gone>"}
+{"user_id":6226826851,"username":"APRAYDU","first_name":"Amit","last_name":"Kumar"}
+{"user_id":5382880940,"username":null,"first_name":"Jocker","last_name":"lina"}
+{"user_id":6692996974,"username":"Chibi_Suzume","first_name":"Vansh","last_name":null}
+{"user_id":5628358075,"username":"henry11909","first_name":"Henrywasadick","last_name":null}
+{"user_id":6932734683,"username":null,"first_name":"\u0627\u0628\u0648","last_name":"\u0645\u062d\u0645\u062f"}
+{"user_id":6324348082,"username":"ReX_360_X","first_name":"\u23e4\u035f\u035e\ud835\ude4f \ud835\ude4d\ud835\ude40\ud835\ude53","last_name":null}
+{"user_id":5388527627,"username":"Saddam2217","first_name":"Saddam","last_name":"Hussain"}
+{"user_id":5028685728,"username":"Omar_Gad","first_name":"\u1d0f\u1d0d\u1d00\u0280 \u0262\u1d00\u1d05\ufe0f \ufe0f\ufe0f\ufe0f","last_name":null}
+{"user_id":1734384666,"username":"DroppCcdroppercxxd","first_name":"Offline","last_name":null}
+{"user_id":1817443548,"username":"ZeroxGamingYT","first_name":"\ud80c\udda9\ud835\udc19\ud835\udc04\ud835\udc11\ud835\udc0e\ud835\udc17\ud80c\uddaa","last_name":null}
+{"user_id":5844917020,"username":"BATUSSS","first_name":"\u0299\u1d00\u1d1b\u1d1csss \u0262\u1d0f\u1d05\u30c3 \u5350","last_name":null}
+{"user_id":5860415170,"username":"mosksjdjd","first_name":".","last_name":"."}
+{"user_id":5173016128,"username":"a_n_a_n_d_r_a_g_h_a_v","first_name":"\u23e4\u035f\u035e\u042f\u039b\u0193\u0126\u039bV\u2122 \u2299\u2060\ufe4f\u2060\u2299","last_name":null}
+{"user_id":6578011412,"username":"Warnisx","first_name":"\ua9c1\u0f12\u262c \ud835\udc16\ud835\udc00\ud835\udc11\ud835\udc0d\ud835\udc08\ud835\udc12\ud835\udc17 [\ud83c\uddee\ud83c\uddf3] \u262c\u0f12\ua9c2","last_name":null}
+{"user_id":6628118241,"username":"rafaelfromLA","first_name":"RAFAEL","last_name":null}
+{"user_id":6537829883,"username":"DaddyReturns","first_name":"Slayerr","last_name":null}
+{"user_id":6319579484,"username":"C0LL_BR0KEN","first_name":"\ud835\ude4a\ud835\ude6c\ud835\ude63\ud835\ude5a\ud835\ude67 \u00bb \ud835\ude3d\ud835\ude4d\ud835\ude4a\ud835\ude46\ud835\ude40\ud835\ude49","last_name":null}
+{"user_id":5871846598,"username":"DEVPHPJS","first_name":"\u23e4\u035f\u035e\ud835\udc0b\ud835\udd9a\ud835\udc02\ud835\udd8e\ud835\udc05\ud835\udd8a\ud835\udc11 \u0586 \ud83c\uddea\ud83c\uddec \u2118","last_name":null}
+{"user_id":1891797716,"username":"a_d_w_a","first_name":"N\u0488A\u0488T\u0488I\u0488(left)","last_name":null}
+{"user_id":6464250851,"username":"Devil_aryan","first_name":"\u00c2RYA\u00d1","last_name":"\ud83d\udc95"}
+{"user_id":6520156557,"username":null,"first_name":"Dipak","last_name":"Kisku"}
+{"user_id":5579729798,"username":"b3owner","first_name":"B3 - [PREMIUM]","last_name":null}
+{"user_id":2132400150,"username":"xz_kings","first_name":"RoK\u012b","last_name":null}
